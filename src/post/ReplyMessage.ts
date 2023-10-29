@@ -1,5 +1,5 @@
 import { Binary } from "../../deps/bson.ts";
-import { WadaPostType } from "./WadaPostType.ts";
+import { WadaPostType } from "./WadaPost.ts";
 import { Address, WithSignature } from "./common.ts";
 
 /**
